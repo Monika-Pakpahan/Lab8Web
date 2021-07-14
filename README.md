@@ -39,6 +39,9 @@ Menampilkan data (read) digunakan untuk menampilkan database yang sudah disimpan
 ![5x](https://user-images.githubusercontent.com/59879254/120358634-e8696580-c330-11eb-869c-209bc70615ad.png)
 ![6x](https://user-images.githubusercontent.com/59879254/120358697-fdde8f80-c330-11eb-864d-536ff384ff1a.png)
 ![7x](https://user-images.githubusercontent.com/59879254/120358776-15b61380-c331-11eb-8cf2-22866faf5247.png)
+![oooo](https://user-images.githubusercontent.com/59879254/125564549-8d6a2b10-49fd-4141-9f77-bfe94f657b85.png)
+![ppppp](https://user-images.githubusercontent.com/59879254/125564577-4fbc491e-80cc-431b-95f8-6d52cf75f8af.png)
+![qqqqq](https://user-images.githubusercontent.com/59879254/125564612-fa2ddc64-32a2-4d2f-8ea8-1cbee94a38f9.png)
 
 Menambahkan data (create) digunakan untuk menambah data pada database sesuai kebutuhan.
 
